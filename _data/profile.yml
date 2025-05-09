@@ -30,33 +30,34 @@ short_bio: >-
   </p>
 
   <p>
-    Currently, I am seeking a <strong>Ph.D. position</strong> starting in Fall 2025.
-    I am pursuing a Master of Science in Spatial Data Science at the  
-    <a href="https://www.usc.edu/" target="_blank">University of Southern California</a>, 
-    under the supervision of Prof. <a href="https://scholar.google.com.au/citations?user=0Hm7fD0AAAAJ&hl=en" target="_blank">Siqin Wang</a> 
-    and Prof. <a href="https://scholar.google.com/citations?user=fYZTZWgAAAAJ&hl=en" target="_blank">Yi Qi</a>, 
-    with an expected graduation in May 2025. Prior to this, I obtained a Bachelor of Economics in Finance from 
-    <a href="https://lxsy.nau.edu.cn/NanjingAuditUniversity/list.htm" target="_blank">Nanjing Audit University</a>.
+    Currently, I am seeking a <strong>Ph.D. position</strong> starting in Spring/Fall 2026.
+    I am pursuing a Master of Science in Data Science at the  
+    <a href="https://www.ntu.edu.sg/computing" target="_blank">College of Computing and Data Science, Nanyang Technological University</a>, 
+    under the supervision of Prof. <a href="https://personal.ntu.edu.sg/yangliu/" target="_blank">Yang Liu</a>, 
+    Dr. <a href="https://kreattang.github.io/" target="_blank">Wenbing Tang</a>, 
+    and Dr. <a href="https://huang-yihao.github.io/" target="_blank">Yihao Huang</a>, 
+    with an expected graduation in Jan 2026. Prior to this, I obtained a Bachelor of Engineering in Computer Science & Technology
+    <a href="https://www.neu.edu.cn/" target="_blank">Northeastern University (China)</a>.
   </p>
 
   <p>
     I am also a Research Assistant at <a href="https://www.hkust-gz.edu.cn/" target="_blank">HKUST(GZ)</a>, 
-    working in the AI4City Lab with Prof. <a href="https://wufan-zhao.github.io/" target="_blank">Wufan Zhao</a>. 
-    Previously, I have worked as a Data Science Intern at 
-    <a href="https://sites.google.com/view/hdscalecollab/" target="_blank">City of Hope</a> under the supervision of 
-    Dr. <a href="https://www.linkedin.com/in/jiue-an-jay-y-a1ab6737/" target="_blank">Jay Yang</a> and as a Research Assistant at 
-    <a href="https://www.polyu.edu.hk/en/" target="_blank">The Hong Kong Polytechnic University</a> advised by 
-    Prof. <a href="https://zhiweili.net/" target="_blank">Zhiwei Li</a>.
+    working in the PEAK Lab with Prof. <a href="https://changhao-chen.github.io/" target="_blank">Changhao Chen</a>. 
+    # Previously, I have worked as a Data Science Intern at 
+    # <a href="https://sites.google.com/view/hdscalecollab/" target="_blank">City of Hope</a> under the supervision of 
+    # Dr. <a href="https://www.linkedin.com/in/jiue-an-jay-y-a1ab6737/" target="_blank">Jay Yang</a> and as a Research Assistant at 
+    # <a href="https://www.polyu.edu.hk/en/" target="_blank">The Hong Kong Polytechnic University</a> advised by 
+    # Prof. <a href="https://zhiweili.net/" target="_blank">Zhiwei Li</a>.
   </p>
 
-  <p>
-    <i class="fa-solid fa-rectangle-ad" style="color: #d60000;"></i> 
-    <span style="color: #d60000;">I am looking for collaborators and interns</span> 
-    interested in GeoAI, Spatial Analysis, and their applications in urban science and human-environment interaction. 
-    My goal is to develop novel tools, algorithms, and methodologies to empower future researchers in exploring Urban Science and 
-    understanding the dynamic relationship between humans and their environments. If you are interested in collaborating, 
-    please feel free to reach out via email or WeChat.
-  </p>
+  # <p>
+  #   <i class="fa-solid fa-rectangle-ad" style="color: #d60000;"></i> 
+  #   <span style="color: #d60000;">I am looking for collaborators and interns</span> 
+  #   interested in GeoAI, Spatial Analysis, and their applications in urban science and human-environment interaction. 
+  #   My goal is to develop novel tools, algorithms, and methodologies to empower future researchers in exploring Urban Science and 
+  #   understanding the dynamic relationship between humans and their environments. If you are interested in collaborating, 
+  #   please feel free to reach out via email or WeChat.
+  # </p>
 
 portrait_url: /assets/images/photos/profile.jpg
 portrait_caption: >-
