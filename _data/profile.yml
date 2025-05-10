@@ -25,6 +25,7 @@ short_bio: >-
   <p>
     I'm an interdisciplinary researcher interested in applying GeoAI methods to advance urban science, 
     understand human-environment interactions, and leverage street view and remote sensing for urban perception and analysis.
+    
   <img src="assets/images/photos/interst.png" alt="Research Interests" 
            style="float: left; width: 350px; margin-right: 10px; border-radius: 8px;">
   </p>
@@ -36,28 +37,18 @@ short_bio: >-
     under the supervision of Prof. <a href="https://personal.ntu.edu.sg/yangliu/" target="_blank">Yang Liu</a>, 
     Dr. <a href="https://kreattang.github.io/" target="_blank">Wenbing Tang</a>, 
     and Dr. <a href="https://huang-yihao.github.io/" target="_blank">Yihao Huang</a>, 
-    with an expected graduation in Jan 2026. Prior to this, I obtained a Bachelor of Engineering in Computer Science & Technology
-    <a href="https://www.neu.edu.cn/" target="_blank">Northeastern University (China)</a>.
+    with an expected graduation in Jan 2026. Prior to this, I obtained a Bachelor of Engineering in Computer Science & Technology at the
+    <a href="https://sstc.neuq.edu.cn/" target="_blank">Sydney Smart Technology College, Northeastern University (China)</a>,
+    under the supervision of Prof. <a href="https://liguorui77.github.io/" target="_blank">Guorui Li</a>
   </p>
 
   <p>
     I am also a Research Assistant at <a href="https://www.hkust-gz.edu.cn/" target="_blank">HKUST(GZ)</a>, 
     working in the PEAK Lab with Prof. <a href="https://changhao-chen.github.io/" target="_blank">Changhao Chen</a>. 
-    # Previously, I have worked as a Data Science Intern at 
-    # <a href="https://sites.google.com/view/hdscalecollab/" target="_blank">City of Hope</a> under the supervision of 
-    # Dr. <a href="https://www.linkedin.com/in/jiue-an-jay-y-a1ab6737/" target="_blank">Jay Yang</a> and as a Research Assistant at 
-    # <a href="https://www.polyu.edu.hk/en/" target="_blank">The Hong Kong Polytechnic University</a> advised by 
-    # Prof. <a href="https://zhiweili.net/" target="_blank">Zhiwei Li</a>.
+    Previously, I have worked as a Software Engineering Intern at 
+    Shanghai Lianshang Network Technology Co,. Ltd. and China Telecom Digital Intelligence Technology Co., Ltd.
   </p>
 
-  # <p>
-  #   <i class="fa-solid fa-rectangle-ad" style="color: #d60000;"></i> 
-  #   <span style="color: #d60000;">I am looking for collaborators and interns</span> 
-  #   interested in GeoAI, Spatial Analysis, and their applications in urban science and human-environment interaction. 
-  #   My goal is to develop novel tools, algorithms, and methodologies to empower future researchers in exploring Urban Science and 
-  #   understanding the dynamic relationship between humans and their environments. If you are interested in collaborating, 
-  #   please feel free to reach out via email or WeChat.
-  # </p>
 
 portrait_url: /assets/images/photos/profile.jpg
 portrait_caption: >-
@@ -70,7 +61,7 @@ education:
   date: Aug. 2024 - present
 - name: Northeastern University (China)
   logo: /assets/images/badges/neu.png
-  position: B.Eng. in Computer Science & Engineering
+  position: B.Eng. in Computer Science & Technology
   date: Sep. 2020 - Jul. 2024
 
 experience:
@@ -79,12 +70,12 @@ experience:
   position: Research Assistant - PEAK Lab
   date: Apr. 2025 - Present
 
-- name: Shanghai Lianshang Network Technology Co., Ltd. (WIFI Masker Key)
+- name: Shanghai Lianshang Network Technology(WIFI Masker Key)
   logo: /assets/images/badges/wifi.png
-  position: Server-side Development Engineeer Intern
+  position: Development Engineeer Intern - Server-side
   date: Dec. 2023 - Mar. 2024
 
-- name: China Telecom Digital Intelligence Technology Co., Ltd. (Hunan Branch)
+- name: China Telecom Digital Intelligence Technology(Hunan)
   logo: /assets/images/badges/ChinaTele.png
   position:  Back-end Development Intern - R&D Support Center
   date: Jul. 2023 - Aug. 2023
@@ -94,7 +85,7 @@ awards:
 - name: Excellent Graduation Thesis, NEU
   date: Jul. 2024
 
-- name: Excellent Team, 2023 AIoT Development Platform Training Camp of Xiaomi Studio
+- name: Excellent Award, AIoT Development Platform Training Camp of Xiaomi Studio
   date: Jul. 2023
 
 - name: Third-class Scholarship, NEU
