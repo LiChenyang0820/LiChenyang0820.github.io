@@ -22,6 +22,6 @@ authors:
 
 links:
   Paper: https://arxiv.org/abs/2511.13132
-#  Code: 
-#  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+Code: 
+  Unsplash: https://github.com/LiChenyang0820/ILA4VLN)
 ---
