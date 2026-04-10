@@ -23,5 +23,5 @@ authors:
 links:
   Paper: https://arxiv.org/abs/2511.13132
 Code: 
-  Unsplash: https://github.com/LiChenyang0820/ILA4VLN)
+  Unsplash: https://github.com/LiChenyang0820/ILA4VLN
 ---
