@@ -23,15 +23,16 @@ linkedin: chenyang-li-a64063311
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am an interdisciplinary researcher interested in enhancing agents' spatial understanding and decision-making capabilities through advanced DL/RL algorithms, especially large models-powered methods, 
-    while improving the robustness and safety of agents in complex tasks and environments, and exploring broader application scenarios of agents.
+    I am an interdisciplinary researcher interested in improving the robustness and safety of models in diverse and complex tasks, 
+    while enhancing their spatial understanding and decision-making capabilities through advanced algorithms, especially for MLLMs, 
+    and exploring broader application scenarios.
     
   <img src="assets/images/photos/research interest-3.png" alt="Research Interests" 
             style="float: left; width: 350px; margin-right: 10px; border-radius: 8px;">
   </p>
 
   <p>
-    I am actively seeking a <strong>Ph.D. position</strong> starting in Fall 2027.
+    I am actively seeking a <strong>Ph.D. position</strong> starting in Fall 2027, focusing on <strong>AIxSecurity</strong>.
     In Jan 2026, I got a Master of Science in Data Science at the  
     <a href="https://www.ntu.edu.sg/computing" target="_blank">College of Computing and Data Science, Nanyang Technological University</a>.
     Prior to this, I obtained a Bachelor of Engineering in Computer Science & Technology at the
