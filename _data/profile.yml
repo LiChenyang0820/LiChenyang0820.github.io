@@ -76,15 +76,15 @@ experience:
   position: Research Assistant - Institute of Data Science
   date: Feb 2026 - Now
   
-- name: Nanyang Technological University
-  logo: /assets/images/badges/ntu.png
-  position: Student Researcher - SPRL Lab
-  date: Dec 2024 - Dec 2025
-  
 - name: The Hong Kong University of Science and Technology (Guangzhou)
   logo: /assets/images/badges/UST.svg.png
   position: Research Assistant - PEAK Lab
   date: Apr 2025 - Oct 2025
+
+- name: Nanyang Technological University
+  logo: /assets/images/badges/ntu.png
+  position: Student Researcher - SPRL Lab
+  date: Dec 2024 - Dec 2025
 
 - name: Shanghai Lianshang Network Technology (WIFI Master Key)
   logo: /assets/images/badges/wifimasterkey.png
@@ -104,11 +104,11 @@ awards:
 - name: Outstanding Award, Xiaomi AIoT Development Platform Training Camp
   date: Jul 2023
 
-- name: Third-class Scholarship, NEU
-  date: May 2023, May 2022, Oct 2021, May 2021
-
-- name: Outstanding Teaching Assistant, NEU-SSTC
-  date: Dec 2022, Mar 2022
-
 - name: Innovation & Entrepreneurship Scholarship, NEU 
   date: Dec 2022
+
+- name: Outstanding Teaching Assistant, NEU-SSTC
+  date: Mar 2022, Dec 2022
+
+- name: Third-class Scholarship, NEU
+  date: May 2021, Oct 2021, May 2022, May 2023   
