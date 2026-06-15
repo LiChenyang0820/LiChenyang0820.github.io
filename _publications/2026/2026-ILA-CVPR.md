@@ -21,7 +21,7 @@ authors:
   - Yang Liu
 
 links:
-  Paper: https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Shedding_Light_on_VLN_Robustness_A_Black——box_Framework_for_Indoor_CVPR_2026_paper.pdf
+  Paper: https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Shedding_Light_on_VLN_Robustness_A_Black_box_Framework_for_Indoor_CVPR_2026_paper.pdf
   Code: https://github.com/LiChenyang0820/ILA4VLN
   # Unsplash: 
 ---
