@@ -3,7 +3,7 @@ title:          "Shedding Light on VLN Robustness: A Black-box Framework for Ind
 date:           2026-02-21 00:01:00 +0800
 selected:       true
 #pub:            ""
-pub_pre:        "Accepted to CVPR"
+pub_pre:        "Accepted by CVPR 2026"
 #pub_post:       ""
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2026"
@@ -21,7 +21,7 @@ authors:
   - Yang Liu
 
 links:
-  Paper: https://arxiv.org/abs/2511.13132
+  Paper: https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Shedding_Light_on_VLN_Robustness_A_Black——box_Framework_for_Indoor_CVPR_2026_paper.pdf
   Code: https://github.com/LiChenyang0820/ILA4VLN
   # Unsplash: 
 ---
