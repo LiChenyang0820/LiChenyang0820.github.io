@@ -2,7 +2,7 @@
 title:          "AdvNav: Behavior-Guided Black-Box Adversarial Attacks on Vision-Language Navigation"
 date:           2026-07-10 23:00:00 +0800
 selected:       true
-pub:            "Accepted by ACM MM 2026"
+pub:            "Accepted by ACM MM"
 #pub_pre:        ""
 #pub_post:       ""
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
