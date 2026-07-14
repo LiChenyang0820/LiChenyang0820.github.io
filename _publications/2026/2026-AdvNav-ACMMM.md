@@ -17,8 +17,8 @@ authors:
   - Zeyu Jiang
   - Changhao Chen#
 
-#  links:
-#    Paper: 
+  links:
+   Paper: https://arxiv.org/abs/2607.11063
 #  Code: 
 #    Unsplash: 
 ---
