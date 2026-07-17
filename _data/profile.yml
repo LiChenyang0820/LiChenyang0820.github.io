@@ -23,10 +23,10 @@ linkedin: chenyang-li-a64063311
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am an interdisciplinary researcher interested in <strong>AIxSecurity</strong>, especially for multi-modality, including: 
-    1) improvement of safety and trustworthiness in diverse and complex tasks, 
-    2) enhancement of spatial understanding and decision-making capabilities by advanced algorithms, 
-    and 3) exploration of broader application scenarios involving Human-AI interaction.
+    I am an interdisciplinary researcher interested in <strong>AIxSecurity</strong>, including: 
+    1) Trustworthy & Robust Embodied Models, 
+    2) Harmless & Helpful Multimodal Intelligence, 
+    3) Broad Human-Centric AI Applications.
     
   <img src="assets/images/photos/research interest-4.png" alt="Research Interests" 
             style="float: left; width: 350px; margin-right: 10px; border-radius: 8px;">
