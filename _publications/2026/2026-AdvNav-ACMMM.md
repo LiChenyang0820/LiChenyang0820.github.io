@@ -18,7 +18,7 @@ authors:
   - Changhao Chen#
 
 links:
-  Paper: https://arxiv.org/abs/2607.11063
+  Paper: https://dl.acm.org/doi/10.1145/3767308.3835574
 #  Code: 
 #    Unsplash: 
 ---
