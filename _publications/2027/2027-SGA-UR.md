@@ -4,7 +4,7 @@ date:           2026-11-17 00:00:00 +0800
 selected:       true
 #pub:            ""
 pub_pre:        "Under Review"
-pub_post:       "haha"
+#pub_post:       ""
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2027"
 
