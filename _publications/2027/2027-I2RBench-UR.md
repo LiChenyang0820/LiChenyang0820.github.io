@@ -1,5 +1,5 @@
 ---
-title:          "\textsc{I2R-Bench}: How Far Are LLM-Driven AutoPT Systems Across the Penetration-Testing Lifecycle?"
+title:          "I2R-Bench: How Far Are LLM-Driven AutoPT Systems Across the Penetration-Testing Lifecycle?"
 date:           2026-08-19 00:00:00 +0800
 selected:       false
 #pub:            ""
